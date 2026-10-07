@@ -1,0 +1,39 @@
+{
+  "title": "이번 달 공휴일",
+  "year": 2026,
+  "month": 10,
+  "source": {
+    "name": "한국천문연구원_특일 정보",
+    "operation": "공휴일 정보 조회(getRestDeInfo)",
+    "portal": "공공데이터포털",
+    "url": "https://www.data.go.kr/data/15012690/openapi.do",
+    "license": "이용허락범위 제한 없음"
+  },
+  "data_origin": "모의 응답 파일 special_days_sample.json",
+  "generated_at": "2026-10-07T15:22:48+09:00",
+  "total_count": 3,
+  "count": 3,
+  "items": [
+    {
+      "date": "2026-10-03",
+      "weekday": "토",
+      "name": "개천절",
+      "holiday": true,
+      "kind": "01"
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "월",
+      "name": "대체공휴일",
+      "holiday": true,
+      "kind": "01"
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "금",
+      "name": "한글날",
+      "holiday": true,
+      "kind": "01"
+    }
+  ]
+}
